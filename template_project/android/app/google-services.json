@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "149896769379",
+    "project_id": "fir-notification-83598",
+    "storage_bucket": "fir-notification-83598.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149896769379:android:d0300e348f00401d4eed56",
+        "android_client_info": {
+          "package_name": "com.tecno_art.template_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkPUcJHugFR61b1C9yQTD0KBPwZaqh1bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1 @@
+1.Hive model to part of command ==>flutter packages pub run build_runner build
